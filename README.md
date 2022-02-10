@@ -1,2 +1,2 @@
-# QDEV-Development-Boards
-Family of unique development and product ready boards utilizing Espressif32 microcontrollers.
+# QDEV-S2-Development-Boards
+Unique development & product ready board based on the Espressif ESP32-S2 MCU.
